@@ -1,0 +1,6 @@
+{
+    "servers": ["https://gitlab.com/truban/29_04-31_04/-/raw/main/library/"],
+    "name": "library",
+    "disableAutoUpdate": false,
+    "description": "Description goes here."
+}

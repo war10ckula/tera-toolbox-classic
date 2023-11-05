@@ -1,5 +1,6 @@
 {
   "files": {
+    "package.json": "2ba763b107cbae008305f261e1ec1aa6de5568551e8bc978f64d166300d41063",
     "TeraToolbox.exe": "1b5f1bfa38b1e97b103f0885edc4413742374c594475f56dc9b01bb8e83631b1",
     "TeraToolboxCLI.exe": "14d5ef53041cda1e6a7abf374d04e6d5b0ae3cabce2a48a2de4d53bfc7860c50",
     "TeraToolboxCLI_NoAdmin.exe": "17189343d2b9b1190a107d4d0a2bbc32331a92510caff7e97280ecde9502a98c",
@@ -92,6 +93,8 @@
     "node_modules/tera-data-parser/lib/protocol/types/customize.js": "3dd9d2b86cc6c7edaa20327b44a3bf5a66b037fb81fed2cc90e56b27c4a86251",
     "node_modules/tera-data-parser/lib/protocol/types/index.js": "ab422a79c64b689eb6175f95cd5f26b2af5e8c256a2c5412ad5d28738a9fa290",
     "node_modules/tera-data-parser/lib/protocol/types/skillid.js": "2410beda1d4a8327be64048a61587625715b6f1c3dc427e239115c8eee4407e2",
+    "node_modules/tera-mod-management/index.js": "55ae6297de4b02a6fc3b50bc5d8e54fdce0931bb341bbe3a7d0a3af8c13e6801",
+    "node_modules/tera-mod-management/README.md": "78d0d079a19fd985591e78babbe5d4eb8d7f9dff17a44f6b91da6e135b865dc2",
     "node_modules/tera-mod-ui/global.js": "cc9ea4210ff3ad8d0aacb77cc9891d2ff5ea30fc34753b35be4fd3403d089634",
     "node_modules/tera-mod-ui/host.js": "a9588bf620530b595cdbe4bc04b30c9503ee6fa34708c31059421c4f11dccc7b",
     "node_modules/tera-mod-ui/index.js": "b028c5d1b8f39299a2aef2eeec5c16a2496723ce73798039c1b186959ad3125d",
@@ -110,8 +113,11 @@
     "node_modules/tera-mod-ui/settings_ui/themes/grey.css": "f0a6bdf944d0dfda701e8a4560d0bf2fcdb6aa975553b83e80cae714cfdb50c4",
     "node_modules/tera-mod-ui/settings_ui/themes/pink.css": "bd97bc1d66bff9b81e7f29e1f9b32c6e2cdbeccfb221c4889c5c593a84768109",
     "node_modules/tera-mod-ui/settings_ui/themes/white.css": "caf40023ca0ac04f56789b454d83b42fdf1dd60f059153116ab9192264f700e8",
+    "node_modules/tera-network-crypto/.gitignore": "a1f50f5e49361617fb13979db454bd06ad3d019b43d5372d87baf3a15fba6650",
+    "node_modules/tera-network-crypto/binding.gyp": "74663bef516e232ef97fbde994c142125fcd29b0a1bfd129d59a5d6489e32f1a",
     "node_modules/tera-network-crypto/index.js": "7f1517e5d9b6dc8eaf6d37b1d9a394d5f34651cc4da7f466aa2705427fc364a4",
     "node_modules/tera-network-crypto/LICENSE": "4f790de5c89b6574782e0532f49af3bf918a5b179727809f0ac656294087df4d",
+    "node_modules/tera-network-crypto/main.cpp": "f63daf08ec3651f18dce54ed7e39bac5ec899a2153bd1d6eb1703a8e1cdbba8e",
     "node_modules/tera-network-crypto/package.json": "b63dce83b2e56fcc22cb792ce805ef6f935bcadd838aed2870f96eb50cb9bb08",
     "node_modules/tera-network-crypto/README.md": "197070609bd0656ff0acf8a43f399ec5a34bc3aeab69f07694ddaf8f919bae89",
     "node_modules/tera-network-crypto/bin/tera_network_crypto_85.node": "f45d205f73062869c35c7ce0269199e61a517c2ae18b39d809236410ba57fd22",

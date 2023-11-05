@@ -1,5 +1,6 @@
 {
   "files": {
+    "package.json": "2ba763b107cbae008305f261e1ec1aa6de5568551e8bc978f64d166300d41063",
     "TeraToolbox.exe": "1b5f1bfa38b1e97b103f0885edc4413742374c594475f56dc9b01bb8e83631b1",
     "TeraToolboxCLI.exe": "14d5ef53041cda1e6a7abf374d04e6d5b0ae3cabce2a48a2de4d53bfc7860c50",
     "TeraToolboxCLI_NoAdmin.exe": "17189343d2b9b1190a107d4d0a2bbc32331a92510caff7e97280ecde9502a98c",
